@@ -24,5 +24,3 @@
       },
     };
   }(window, window._));
-
-  claudius.phyz.calcDistance();
